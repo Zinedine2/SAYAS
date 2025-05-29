@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #e2eafc;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#gameContainer {
+  margin: 20px;
+  position: relative;
+}
+
+#score {
+  font-size: 1.5em;
+  margin-top: 10px;
+}
+
+#restartBtn {
+  margin-top: 10px;
+  padding: 10px 20px;
+  font-size: 1em;
+  cursor: pointer;
+}
